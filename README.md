@@ -2,5 +2,5 @@
 
 Il programma funziona in questo modo.
 
-- **File -> Inserire pagina sinistra, inserire pagina destra
-    Qui
+- **File -> Inserire pagina sinistra, inserire pagina destra**
+    Qui per
